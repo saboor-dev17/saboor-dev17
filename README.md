@@ -1,4 +1,4 @@
-# Hi 👋 I'm Saboor
+# Hi 👋 I'm Abdul Saboor
 
 🎓 BS Computer Science Graduate
 💻 Full-Stack Developer | 📱 Mobile App Developer | 🤖 AI & Machine Learning Enthusiast
