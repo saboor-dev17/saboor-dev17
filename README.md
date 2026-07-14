@@ -72,7 +72,7 @@ Full-stack e-commerce application built with Next.js, Node.js, Express, and Mong
 ## 📫 Connect With Me
 
 💼 **LinkedIn**
-https://www.linkedin.com/in/dementor-abdul-saboor?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://www.linkedin.com/in/dementor-abdul-saboor
 
 📧 **Email**
 abdulsaboor17786@gmail.com
