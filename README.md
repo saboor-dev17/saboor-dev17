@@ -1,85 +1,101 @@
 # Hi 👋 I'm Abdul Saboor
 
-🎓 BS Computer Science Graduate
-💻 Full-Stack Developer | 📱 Mobile App Developer | 🤖 AI & Machine Learning Enthusiast
+🎓 BS Computer Science Graduate  
+💻 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast
 
-I'm passionate about building software that solves real-world problems through web, mobile, and AI-powered applications. I enjoy working across the full development stack and exploring how machine learning and computer vision can be integrated into practical solutions.
+I'm passionate about building scalable software and AI-powered applications that solve real-world problems. I enjoy working across the entire development lifecycle—from designing modern web applications and backend APIs to building intelligent systems using machine learning and computer vision.
 
-My interests include Artificial Intelligence, Computer Vision, Mobile Development, Backend Engineering, and scalable software architecture.
+My interests include Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, Cloud Technologies, and Full-Stack Web Development.
 
 ---
 
 ## 🚀 Currently Exploring
 
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision with YOLO & OpenCV
-* 📱 React Native Mobile Development
-* 🌐 Modern Full-Stack Web Development
-* ☁️ Cloud Deployment & DevOps Fundamentals
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision with YOLO & OpenCV
+- 🧠 Large Language Models (LLMs) & AI Applications
+- 🌐 Modern Full-Stack Web Development
+- ⚡ High-Performance Backend Development
+- ☁️ Cloud Deployment & DevOps Fundamentals
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 🐍 Python • 🟨 JavaScript • ☕ Java • ⚙️ C++ • 🗄️ SQL
 
-### 🌐 Full-Stack Development
+## 🌐 Frontend
 
-⚛️ React • ▲ Next.js • 📱 React Native • 🟢 Node.js • Express.js • 🍃 MongoDB • Tailwind CSS
+⚛️ React • ▲ Next.js • HTML5 • CSS3 • Tailwind CSS
 
-### 🤖 AI / Machine Learning
+## ⚙️ Backend
+
+🟢 Node.js • Express.js • 🌿 Django • ⚡ FastAPI • 🔥 Flask
+
+## 🤖 AI / Machine Learning
 
 🧠 Scikit-Learn • 👁️ OpenCV • 🎯 YOLOv8 • 📊 NumPy • 🐼 Pandas
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-🍃 MongoDB • 🗃️ SQL Server • MySQL
+🍃 MongoDB • MySQL • 🗃️ SQL Server
 
-### 🔧 Tools & Platforms
+## 🔧 Tools & Platforms
 
-🔧 Git • GitHub • 📮 Postman • VS Code • Visual Studio • Arduino IDE
-
----
-
-## 🌟 Featured Projects
-
-### 🚦 SafarMate
-
-AI-powered navigation and road safety mobile application featuring safer route recommendations, incident reporting, Google Maps integration, and machine learning-based safety prediction.
-
-### 👁️ VisionTrack
-
-Desktop computer vision application for real-time object detection, tracking, and counting using YOLOv8, OpenCV, and CustomTkinter.
-
-### 🌐 LinkSphere
-
-LinkedIn-inspired full-stack social networking platform with authentication, user profiles, posts, and connection management.
-
-### 🛍️ MyStore
-
-Full-stack e-commerce application built with Next.js, Node.js, Express, and MongoDB featuring authentication, product management, and an admin dashboard.
+Git • GitHub • Docker • Postman • VS Code • Visual Studio • Arduino IDE • Vercel • Render
 
 ---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
 
-*(You can add GitHub Stats and Top Languages cards here using GitHub Readme Stats.)*
+## 🚦 SafarMate
+
+An AI-powered road safety platform that provides safer route recommendations using machine learning, Google Maps integration, incident reporting, and real-time navigation assistance.
 
 ---
 
-## 📫 Connect With Me
+## 👁️ VisionTrack
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/dementor-abdul-saboor
+A computer vision application for real-time object detection, tracking, and counting using YOLOv8, OpenCV, and Python.
 
-📧 **Email**
+---
+
+## 🌐 LinkSphere
+
+A LinkedIn-inspired social networking platform featuring authentication, user profiles, posts, connections, and a modern full-stack architecture.
+
+---
+
+## 🛍️ MyStore
+
+A full-stack e-commerce platform built with Next.js, Express.js, and MongoDB featuring authentication, product management, shopping cart functionality, and an admin dashboard.
+
+---
+
+# 📈 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulsaboor17&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaboor17&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/abdul-saboor17
+
+📧 **Email**  
 abdulsaboor17786@gmail.com
 
-🌐 **Portfolio**
-
+🌐 **Portfolio**  
+https://saboor-dev.me
 
 ---
 
-> *"Always learning, always building, and always looking for opportunities to solve meaningful problems through technology."*
+> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
