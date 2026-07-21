@@ -1,90 +1,48 @@
-# Hi 👋 I'm Abdul Saboor
+# Hi there, I'm Abdul Saboor 👋
 
-🎓 BS Computer Science Graduate  
-💻 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast
+🎓 **Bachelor of Science in Computer Science**  
+💻 **Full-Stack Software Developer** • 🤖 **AI & Machine Learning Enthusiast**
 
-I'm passionate about building software that solves real-world problems through web applications, AI, and machine learning. I enjoy designing scalable backend systems, building modern user interfaces, and integrating intelligent models into practical applications.
-
-My interests include Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, Cloud Technologies, and scalable software architecture.
+I'm a Computer Science graduate passionate about building scalable software and intelligent applications that solve real-world problems. My interests span full-stack web development, backend engineering, machine learning, and computer vision. I enjoy designing clean architectures, developing efficient systems, and continuously expanding my technical expertise.
 
 ---
 
-## 🚀 Currently Exploring
+# 🚀 Current Focus
 
 - 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision with YOLO & OpenCV
-- ⚡ FastAPI & High-Performance APIs
-- 🌐 Modern Full-Stack Development
-- ☁️ Cloud Deployment, Docker & DevOps
+- 👁️ Computer Vision (YOLOv8 & OpenCV)
+- ⚡ Building High-Performance APIs with FastAPI
+- 🌐 Modern Full-Stack Web Development
+- ☁️ Cloud Deployment & DevOps
 - 🧠 Large Language Models (LLMs)
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+### Languages
 
-- 🐍 Python
-- 🟨 JavaScript
-- 🔷 TypeScript
-- ☕ Java
-- ⚙️ C++
-- 🗄️ SQL
-- 📄 YAML
+`Python` • `JavaScript` • `TypeScript` • `Java` • `C++` • `SQL` • `YAML`
 
----
+### Frontend
 
-## 🌐 Frontend
+`React` • `Next.js` • `React Native` • `Tailwind CSS`
 
-- ⚛️ React
-- ▲ Next.js
-- 📱 React Native
-- 🎨 Tailwind CSS
+### Backend
 
----
+`Node.js` • `Express.js` • `Django` • `FastAPI` • `Flask`
 
-## ⚙️ Backend
+### AI & Machine Learning
 
-- 🟢 Node.js
-- 🚂 Express.js
-- 🌶️ Django
-- ⚡ FastAPI
-- 🧪 Flask
+`YOLOv8` • `OpenCV` • `Scikit-Learn` • `NumPy` • `Pandas`
 
----
+### Databases & Backend Services
 
-## 🤖 AI / Machine Learning
+`MongoDB` • `PostgreSQL` • `MySQL` • `SQL Server` • `Firebase` • `Supabase`
 
-- 🧠 Scikit-Learn
-- 👁️ OpenCV
-- 🎯 YOLOv8
-- 📊 NumPy
-- 🐼 Pandas
+### Tools & Platforms
 
----
-
-## 🗄️ Databases & Backend Services
-
-- 🍃 MongoDB
-- 🐘 PostgreSQL
-- 🐬 MySQL
-- 🗃️ SQL Server
-- ⚡ Supabase
-- 🔥 Firebase
-
----
-
-## 🔧 Tools & Platforms
-
-- 🔧 Git
-- 🐙 GitHub
-- 📮 Postman
-- 💻 VS Code
-- 🪟 Visual Studio
-- 🐳 Docker
-- ☁️ Vercel
-- 🚀 Render
-- 🛠️ Arduino IDE
+`Git` • `GitHub` • `Docker` • `Postman` • `VS Code` • `Visual Studio` • `Vercel` • `Render` • `Arduino IDE`
 
 ---
 
@@ -92,15 +50,15 @@ My interests include Artificial Intelligence, Machine Learning, Computer Vision,
 
 ## 🚦 SafarMate
 
-AI-powered navigation and road safety platform featuring safer route recommendations, incident reporting, Google Maps integration, and machine learning-based safety prediction.
+An AI-powered navigation platform that recommends safer travel routes using machine learning, Google Maps integration, and community-based incident reporting.
 
-**Tech:** React Native • FastAPI • Firebase • YOLO • Machine Learning
+**Tech:** React Native • FastAPI • Firebase • Machine Learning • Google Maps API
 
 ---
 
 ## 👁️ VisionTrack
 
-Real-time computer vision system for object detection, tracking, and counting using YOLOv8, OpenCV, and CustomTkinter.
+A real-time computer vision application for object detection, tracking, and counting using YOLOv8 and OpenCV.
 
 **Tech:** Python • YOLOv8 • OpenCV • CustomTkinter
 
@@ -108,17 +66,29 @@ Real-time computer vision system for object detection, tracking, and counting us
 
 ## 🌐 LinkSphere
 
-A LinkedIn-inspired full-stack social networking platform with authentication, user profiles, posts, messaging, and connection management.
+A LinkedIn-inspired professional networking platform with authentication, user profiles, posts, messaging, and connection management.
 
-**Tech:** Next.js • TypeScript • Node.js • Express • MongoDB
+**Tech:** Next.js • TypeScript • Node.js • Express.js • MongoDB
 
 ---
 
 ## 🛍️ MyStore
 
-Modern e-commerce platform with authentication, product management, shopping cart, payments, and admin dashboard.
+A full-stack e-commerce platform featuring secure authentication, product management, shopping cart functionality, and an administrative dashboard.
 
-**Tech:** Next.js • TypeScript • Node.js • Express • MongoDB
+**Tech:** Next.js • TypeScript • Node.js • Express.js • MongoDB
+
+---
+
+# 🎯 Professional Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Backend Engineering
+- Full-Stack Development
+- Cloud Computing
+- Scalable Software Architecture
 
 ---
 
@@ -127,12 +97,12 @@ Modern e-commerce platform with authentication, product management, shopping car
 💼 **LinkedIn**  
 https://www.linkedin.com/in/abdul-saboor17
 
-📧 **Email**  
-abdulsaboor17786@gmail.com
-
 🌐 **Portfolio**  
 https://saboor-dev.me
 
+📧 **Email**  
+abdulsaboor17786@gmail.com
+
 ---
 
-> **"Always learning, always building, and always creating technology that makes a meaningful impact."**
+> *"Building reliable software, solving meaningful problems, and continuously learning new technologies."*
