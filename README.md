@@ -3,9 +3,9 @@
 🎓 BS Computer Science Graduate  
 💻 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast
 
-I'm passionate about building scalable software and AI-powered applications that solve real-world problems. I enjoy working across the entire development lifecycle—from designing modern web applications and backend APIs to building intelligent systems using machine learning and computer vision.
+I'm passionate about building software that solves real-world problems through web applications, AI, and machine learning. I enjoy designing scalable backend systems, building modern user interfaces, and integrating intelligent models into practical applications.
 
-My interests include Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, Cloud Technologies, and Full-Stack Web Development.
+My interests include Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, Cloud Technologies, and scalable software architecture.
 
 ---
 
@@ -13,10 +13,10 @@ My interests include Artificial Intelligence, Machine Learning, Computer Vision,
 
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision with YOLO & OpenCV
-- 🧠 Large Language Models (LLMs) & AI Applications
-- 🌐 Modern Full-Stack Web Development
-- ⚡ High-Performance Backend Development
-- ☁️ Cloud Deployment & DevOps Fundamentals
+- ⚡ FastAPI & High-Performance APIs
+- 🌐 Modern Full-Stack Development
+- ☁️ Cloud Deployment, Docker & DevOps
+- 🧠 Large Language Models (LLMs)
 
 ---
 
@@ -24,27 +24,67 @@ My interests include Artificial Intelligence, Machine Learning, Computer Vision,
 
 ## 💻 Languages
 
-🐍 Python • 🟨 JavaScript • ☕ Java • ⚙️ C++ • 🗄️ SQL
+- 🐍 Python
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ☕ Java
+- ⚙️ C++
+- 🗄️ SQL
+- 📄 YAML
+
+---
 
 ## 🌐 Frontend
 
-⚛️ React • ▲ Next.js • HTML5 • CSS3 • Tailwind CSS
+- ⚛️ React
+- ▲ Next.js
+- 📱 React Native
+- 🎨 Tailwind CSS
+
+---
 
 ## ⚙️ Backend
 
-🟢 Node.js • Express.js • 🌿 Django • ⚡ FastAPI • 🔥 Flask
+- 🟢 Node.js
+- 🚂 Express.js
+- 🌶️ Django
+- ⚡ FastAPI
+- 🧪 Flask
+
+---
 
 ## 🤖 AI / Machine Learning
 
-🧠 Scikit-Learn • 👁️ OpenCV • 🎯 YOLOv8 • 📊 NumPy • 🐼 Pandas
+- 🧠 Scikit-Learn
+- 👁️ OpenCV
+- 🎯 YOLOv8
+- 📊 NumPy
+- 🐼 Pandas
 
-## 🗄️ Databases
+---
 
-🍃 MongoDB • MySQL • 🗃️ SQL Server
+## 🗄️ Databases & Backend Services
+
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🗃️ SQL Server
+- ⚡ Supabase
+- 🔥 Firebase
+
+---
 
 ## 🔧 Tools & Platforms
 
-Git • GitHub • Docker • Postman • VS Code • Visual Studio • Arduino IDE • Vercel • Render
+- 🔧 Git
+- 🐙 GitHub
+- 📮 Postman
+- 💻 VS Code
+- 🪟 Visual Studio
+- 🐳 Docker
+- ☁️ Vercel
+- 🚀 Render
+- 🛠️ Arduino IDE
 
 ---
 
@@ -52,36 +92,33 @@ Git • GitHub • Docker • Postman • VS Code • Visual Studio • Arduino 
 
 ## 🚦 SafarMate
 
-An AI-powered road safety platform that provides safer route recommendations using machine learning, Google Maps integration, incident reporting, and real-time navigation assistance.
+AI-powered navigation and road safety platform featuring safer route recommendations, incident reporting, Google Maps integration, and machine learning-based safety prediction.
+
+**Tech:** React Native • FastAPI • Firebase • YOLO • Machine Learning
 
 ---
 
 ## 👁️ VisionTrack
 
-A computer vision application for real-time object detection, tracking, and counting using YOLOv8, OpenCV, and Python.
+Real-time computer vision system for object detection, tracking, and counting using YOLOv8, OpenCV, and CustomTkinter.
+
+**Tech:** Python • YOLOv8 • OpenCV • CustomTkinter
 
 ---
 
 ## 🌐 LinkSphere
 
-A LinkedIn-inspired social networking platform featuring authentication, user profiles, posts, connections, and a modern full-stack architecture.
+A LinkedIn-inspired full-stack social networking platform with authentication, user profiles, posts, messaging, and connection management.
+
+**Tech:** Next.js • TypeScript • Node.js • Express • MongoDB
 
 ---
 
 ## 🛍️ MyStore
 
-A full-stack e-commerce platform built with Next.js, Express.js, and MongoDB featuring authentication, product management, shopping cart functionality, and an admin dashboard.
+Modern e-commerce platform with authentication, product management, shopping cart, payments, and admin dashboard.
 
----
-
-# 📈 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsaboor17&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaboor17&layout=compact&theme=tokyonight" height="170"/>
-</p>
+**Tech:** Next.js • TypeScript • Node.js • Express • MongoDB
 
 ---
 
@@ -98,4 +135,4 @@ https://saboor-dev.me
 
 ---
 
-> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
+> **"Always learning, always building, and always creating technology that makes a meaningful impact."**
